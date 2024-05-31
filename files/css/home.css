@@ -25,7 +25,7 @@ a {
 }
 
 a:hover {
-    color: #d93b3b;
+    color: #ef547a;
     text-decoration: none
 }
 
@@ -44,7 +44,7 @@ button,
 
 .btn-highlight {
     font-weight: 600;
-    color: #f21111;
+    color: #ef547a;
     font-size: 1.2em;
     position: relative;
     padding-left: 50px;
@@ -910,7 +910,7 @@ div.user-name.is-level-mute {
 }
 
 .ztag .zt-red {
-    color: #ba5050;
+    color: #ff718c;
 }
 
 /* xmas */

@@ -28,7 +28,7 @@ a {
 
 a:hover {
     transition: all .3s;
-    color: #f03939
+    color: #ff5882
 }
 
 
@@ -5176,7 +5176,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     width: 60px;
     text-align: center;
     transform: translateY(-50%);
-    color: #fd0707
+    color: #ef547a
 }
 
 .dt-comment:before {
